@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"fmt"
@@ -28,3 +28,4 @@ func main() {
 	m1["address"] = "beijing"
 	fmt.Println("strJoin(m1): ", strJoin(m1))
 }
+*/
